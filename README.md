@@ -15,4 +15,7 @@ proporcionando uma carga inicial mais rápida e melhorando a eficiência na entr
 # Descrição
 O projeto é fundamentado na capacidade dos usuários compartilharem suas tarefas com outros usuários conectados, permitindo interações através de comentários.
 
+# Deploy in vercel
+https://list-next-comments.vercel.app/
+
 
