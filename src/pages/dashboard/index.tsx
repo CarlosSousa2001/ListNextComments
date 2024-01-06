@@ -119,7 +119,7 @@ const Dashboard = ({user}: HomeProps) => {
                                     checked={publicTask}
                                     onChange={handleChangePublic}
                                     />
-                                    <label>Deixar tarefa publica ?</label>
+                                    <label>Deixar tarefa pública ?</label>
                                 </div>
 
                                 <button type="submit" className={styles.button}>
